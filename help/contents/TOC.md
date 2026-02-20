@@ -1,9 +1,10 @@
 ---
-user-guide-title: Ultimate Success
-breadcrumb-title: Ultimate Success documentation
-user-guide-description: Ultimate Success documentation and so on
+user-guide-title: Ultimate Success On-demand Content
+breadcrumb-title: Ultimate Success On-demand Content
+user-guide-description: Access our exclusive, expert-led webinar library for Ultimate Success customers to quickly master strategic and technical best practices that drive measurable business results.
+hide: yes
 ---
 
-# Ultimate Success {#using}
+# Ultimate Success {#ultimate-success}
 
 + [Overview](overview.md)
