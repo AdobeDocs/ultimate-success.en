@@ -4,7 +4,7 @@ description: Access our exclusive, expert-led webinar library for Ultimate Succe
 hide: yes
 ---
 
-# Ultimate Success Webinars {ultimate-success-webinars}
+# Ultimate Success Webinars
 
 ## Webinars
 
