@@ -73,7 +73,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 ## Customer Journey Analytics
 
-### 2026
+**2026**
 
 <!-- CARDS  ****
 
@@ -110,7 +110,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -316,7 +316,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
@@ -451,7 +451,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 ## Experience Manager
 
-### 2026
+**2026**
 
 <!-- CARDS  ****
 
@@ -560,7 +560,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -909,7 +909,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
@@ -996,7 +996,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 ## Experience Platform
 
-### 2026
+**2026**
 
 <!-- CARDS  ****
 
@@ -1033,7 +1033,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2025
+**2025**
 
 
 <!-- CARDS  ****
@@ -1192,7 +1192,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 
 <!-- CARDS  ****
@@ -1305,7 +1305,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 ## General
 
-### 2026
+**2026**
 
 <!-- CARDS  ****
 
@@ -1415,7 +1415,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -1548,7 +1548,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
@@ -1816,7 +1816,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 ## Journey Optimizer
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -1998,7 +1998,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 
 <!-- CARDS  ****
@@ -2158,7 +2158,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 ## Marketo
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -2197,7 +2197,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 ## Multi-solution
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -2378,7 +2378,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
@@ -2417,7 +2417,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 ## Real-time Customer Data Platform (Real-time CDP)
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
@@ -2528,7 +2528,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 ## Target
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -2565,7 +2565,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 
 <!-- CARDS  ****
@@ -2605,7 +2605,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 ## Workfront
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -2690,7 +2690,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
@@ -2783,7 +2783,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
@@ -2894,7 +2894,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 
 ## Experience Manager
 
-### 2026
+**2026**
 
 <!-- CARDS  ****
 
@@ -3003,7 +3003,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -3328,7 +3328,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
@@ -3415,7 +3415,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 
 ## Experience Platform
 
-### 2026
+**2026**
 
 <!-- CARDS  ****
 
@@ -3452,7 +3452,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2025
+**2025**
 
 
 <!-- CARDS  ****
@@ -3611,7 +3611,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 
 <!-- CARDS  ****
@@ -3724,7 +3724,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 
 ## General
 
-### 2026
+**2026**
 
 <!-- CARDS  ****
 
@@ -3857,7 +3857,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -4062,7 +4062,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
@@ -4330,7 +4330,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 
 ## Journey Optimizer
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -4512,7 +4512,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 
 <!-- CARDS  ****
@@ -4672,7 +4672,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 
 ## Marketo
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -4711,7 +4711,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 
 ## Multi-solution
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -4892,7 +4892,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
@@ -4931,7 +4931,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 
 ## Real-time Customer Data Platform (Real-time CDP)
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
@@ -5042,7 +5042,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 
 ## Target
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -5079,7 +5079,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 
 <!-- CARDS  ****
@@ -5119,7 +5119,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 
 ## Workfront
 
-### 2025
+**2025**
 
 <!-- CARDS  ****
 
@@ -5204,7 +5204,7 @@ ctrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-### 2024
+**2024**
 
 <!-- CARDS  ****
 
