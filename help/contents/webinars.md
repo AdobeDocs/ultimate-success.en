@@ -17,6 +17,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/commerce2025/enriching-adobe-commerce
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/commerce2025/transforming-b2b-commerce
 
+
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">

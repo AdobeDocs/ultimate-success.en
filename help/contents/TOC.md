@@ -8,4 +8,4 @@ hide: yes
 # Ultimate Success {#ultimate-success-on-demand}
 
 + [Overview](overview.md)
-+ [Webinars](./webinars.md)
++ [Webinars](webinars.md)
