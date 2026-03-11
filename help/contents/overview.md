@@ -12,7 +12,8 @@ Access our comprehensive library of expert-led webinars designed to accelerate y
 
 Explore our collection of on-demand webinars designed to help you maximize the value of Adobe Experience Platform (AEP) solutions. Built for Ultimate customers, each session delivers actionable guidance, proven strategies, and real-world examples to help you drive smarter decisions and stronger results—on your schedule.
 
-<!-- CARDS  ****
+<!--
+CARDS  ****
 
 {cta = Watch}
 
@@ -269,7 +270,8 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 I will hide this section, but we can set up the basics now, and then we can turn it on later. Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta rump fatback drumstick filet mignon ground round. Cow burgdoggen bacon buffalo, ground round swine shank flank. T-bone chuck pork flank bacon chislic strip steak meatball jerky. Shank chuck fatback tongue sirloin. Shank prosciutto tenderloin, alcatra pork belly spare ribs t-bone hamburger salami. Tri-tip ham hock chuck burgdoggen drumstick tail.
 
-<!-- CARDS  ****
+<!--
+CARDS  ****
 
 {cta = Watch}
 
