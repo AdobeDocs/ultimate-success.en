@@ -12,7 +12,8 @@ Access our comprehensive library of expert-led webinars designed to accelerate y
 
 Explore our collection of on-demand webinars designed to help you maximize the value of Adobe Experience Platform (AEP) solutions. Built for Ultimate customers, each session delivers actionable guidance, proven strategies, and real-world examples to help you drive smarter decisions and stronger results—on your schedule.
 
-<!-- CARDS  ****
+<!--
+CARDS  ****
 
 {cta = Watch}
 
@@ -22,8 +23,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs
-
 -->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="BRD-SDR File Creation for Analytics and Customer Journey Analytics">
@@ -173,7 +174,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta rump fatback drumstick filet mignon ground round. Cow burgdoggen bacon buffalo, ground round swine shank flank. T-bone chuck pork flank bacon chislic strip steak meatball jerky. Shank chuck fatback tongue sirloin. Shank prosciutto tenderloin, alcatra pork belly spare ribs t-bone hamburger salami. Tri-tip ham hock chuck burgdoggen drumstick tail.
 
-<!-- CARDS
+<!--
+CARDS
 
 * https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users
   {title = VRA Customer Journey Analytics Series}  
@@ -191,6 +193,7 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
   {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
   {cta  = View series}
 -->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="VRA Customer Journey Analytics Series">
@@ -269,15 +272,16 @@ Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta r
 
 I will hide this section, but we can set up the basics now, and then we can turn it on later. Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta rump fatback drumstick filet mignon ground round. Cow burgdoggen bacon buffalo, ground round swine shank flank. T-bone chuck pork flank bacon chislic strip steak meatball jerky. Shank chuck fatback tongue sirloin. Shank prosciutto tenderloin, alcatra pork belly spare ribs t-bone hamburger salami. Tri-tip ham hock chuck burgdoggen drumstick tail.
 
-<!-- CARDS  ****
+<!--
+CARDS  ****
 
 {cta = Watch}
 
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/personalized-experiences-aem
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-lucene-search
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-genai
-
 -->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Beyond the Page - Fast, Flexible, Personalized Experiences with AEM's Emerging Technology">
