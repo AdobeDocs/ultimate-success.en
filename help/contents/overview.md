@@ -183,6 +183,7 @@ Each focused session highlights a core pillar of the Value Realization Framework
 * vra/csc-on-demand.md
 
 -->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="CJA VRA On Demand Series">

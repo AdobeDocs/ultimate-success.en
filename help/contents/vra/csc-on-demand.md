@@ -20,6 +20,7 @@ This series explores how to modernize the content supply chain from planning thr
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/general2026/csc-change-management
 
 -->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Maximize Content Supply Chains">
