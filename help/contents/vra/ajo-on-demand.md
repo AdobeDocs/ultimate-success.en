@@ -18,9 +18,7 @@ The Adobe Journey Optimizer Value Realization Series guides teams in activating 
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/design-an-operating-model-ajo
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/build-executive-sponsorship-ajo
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies
-
 -->
-
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Journey Optimizer Value Realization Series - Session 1 Roadmap to Value with Adobe Journey Optimizer">
