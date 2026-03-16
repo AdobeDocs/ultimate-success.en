@@ -9,7 +9,8 @@ hide: yes
 
 The Adobe Journey Optimizer Value Realization Series guides teams in activating real‑time, personalized engagement through a clear value strategy. These sessions cover use‑case roadmaps, architecture, operating models, and organizational readiness to accelerate time‑to‑value and maximize AJO adoption.
 
-<!-- CARDS  ****
+<!--
+CARDS  ****
 
 {cta = Watch}
 

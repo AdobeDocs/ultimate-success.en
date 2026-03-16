@@ -9,7 +9,8 @@ hide: yes
 
 This on‑demand series helps organizations build a clear, value‑driven measurement strategy with Customer Journey Analytics. Sessions focus on aligning use cases, architecture, operating models, and leadership to move from data collection to trusted insights and measurable business outcomes.
 
-<!-- CARDS  ****
+<!--
+CARDS  ****
 
 {cta = Watch}
 

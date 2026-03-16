@@ -9,7 +9,8 @@ hide: yes
 
 This series explores how to modernize the content supply chain from planning through measurement. Sessions highlight practical approaches to architecture, operating models, executive sponsorship, and change management to drive efficiency, scale content operations, and deliver measurable outcomes.
 
-<!-- CARDS  ****
+<!--
+CARDS  ****
 
 {cta = Watch}
 
