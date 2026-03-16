@@ -22,8 +22,11 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs
+
 -->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="BRD-SDR File Creation for Analytics and Customer Journey Analytics">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
@@ -164,6 +167,7 @@ Explore our collection of on-demand webinars designed to help you maximize the v
         </div>
     </div>
 </div>
+
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 
