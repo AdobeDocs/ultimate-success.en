@@ -12,8 +12,7 @@ Access our comprehensive library of expert-led webinars designed to accelerate y
 
 Explore our collection of on-demand webinars designed to help you maximize the value of Adobe Experience Platform (AEP) solutions. Built for Ultimate customers, each session delivers actionable guidance, proven strategies, and real-world examples to help you drive smarter decisions and stronger results—on your schedule.
 
-<!--
-CARDS  ****
+<!-- CARDS  ****
 
 {cta = Watch}
 
@@ -23,16 +22,18 @@ CARDS  ****
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs
+
 -->
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="BRD-SDR File Creation for Analytics and Customer Journey Analytics">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices" title="BRD-SDR File Creation for Analytics and Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1771976010827" alt="BRD-SDR File Creation for Analytics and Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479598/?format=jpeg&nocache=1773690798273" alt="BRD-SDR File Creation for Analytics and Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -55,7 +56,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence" title="Embedded Intelligence Shift" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478774/?format=jpeg&nocache=1771976010837" alt="Embedded Intelligence Shift"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479031/?format=jpeg&nocache=1773690798134" alt="Embedded Intelligence Shift"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -78,7 +79,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/authoring-eds" title="Authoring in Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1771976010996" alt="Authoring in Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479916/?format=jpeg&nocache=1773690798327" alt="Authoring in Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -101,7 +102,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/value-with-content-supply-chain" title="Maximize Content Supply Chains" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1771976010942" alt="Maximize Content Supply Chains"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773690798264" alt="Maximize Content Supply Chains"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -124,7 +125,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/modern-delivery-model-aem" title="Modern Delivery Models for AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1771976010846" alt="Modern Delivery Models for AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1773690798368" alt="Modern Delivery Models for AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -147,7 +148,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/moving-to-aemcs" title="Strategic Benefits of AEM Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1771976010812" alt="Strategic Benefits of AEM Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478772/?format=jpeg&nocache=1773690798281" alt="Strategic Benefits of AEM Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -166,42 +167,35 @@ CARDS  ****
         </div>
     </div>
 </div>
+
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
 
 [View all webinars](./webinars.md)
 
-## Mini-Series Content
+## Value Realization Series
 
-Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta rump fatback drumstick filet mignon ground round. Cow burgdoggen bacon buffalo, ground round swine shank flank. T-bone chuck pork flank bacon chislic strip steak meatball jerky. Shank chuck fatback tongue sirloin. Shank prosciutto tenderloin, alcatra pork belly spare ribs t-bone hamburger salami. Tri-tip ham hock chuck burgdoggen drumstick tail.
+Explore OnDemand recordings from Adobe's Value Realization Series, designed to help organizations turn Adobe investments into measurable business impact.
 
-<!--
-CARDS
+Each focused session highlights a core pillar of the Value Realization Framework, offering practical guidance and proven artifacts to support strategic planning, accelerate time to value, and drive meaningful outcomes. Browse product  and industry specific series to see how teams activate strategy, align stakeholders, and move from adoption to impact.
 
-* https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users
-  {title = VRA Customer Journey Analytics Series}  
-  {description = Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta rump fatback drumstick filet mignon ground round. }
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
+<!-- CARDS  ****
+
   {cta  = View series}
-* https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users
-  {title = VRA Adobe Journey Optimizer Series}  
-  {description = Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta rump fatback drumstick filet mignon ground round. }
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
-  {cta  = View series}
-  * https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users
-  {title = VRA Content Supply Chain Series}  
-  {description = Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta rump fatback drumstick filet mignon ground round. }
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
-  {cta  = View series}
+  
+* vra/cja-on-demand.md
+* vra/ajo-on-demand.md
+* vra/csc-on-demand.md
+
 -->
-
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="VRA Customer Journey Analytics Series">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="CJA VRA On Demand Series">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users" title="VRA Customer Journey Analytics Series" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="VRA Customer Journey Analytics Series"
+                    <a href="vra/cja-on-demand.md" title="CJA VRA On Demand Series" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464933/?format=jpeg&nocache=1773688699496" alt="CJA VRA On Demand Series"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -209,22 +203,22 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users" target="_blank" rel="referrer" title="VRA Customer Journey Analytics Series">VRA Customer Journey Analytics Series</a>
+                        <a href="vra/cja-on-demand.md" target="_blank" rel="referrer" title="CJA VRA On Demand Series">CJA VRA On Demand Series</a>
                     </p>
-                    <p class="is-size-6">Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta rump fatback drumstick filet mignon ground round.</p>
+                    <p class="is-size-6">This on-demand Customer Journey Analytics series helps organizations build a value-driven measurement strategy that turns customer data into trusted insights and measurable business outcomes.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="vra/cja-on-demand.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View series</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="VRA Content Supply Chain Series">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AJO VRA On Demand Series">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users" title="VRA Content Supply Chain Series" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="VRA Content Supply Chain Series"
+                    <a href="vra/ajo-on-demand.md" title="AJO VRA On Demand Series" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476067/?format=jpeg&nocache=1773688887775" alt="AJO VRA On Demand Series"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,22 +226,22 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users" target="_blank" rel="referrer" title="VRA Content Supply Chain Series">VRA Content Supply Chain Series</a>
+                        <a href="vra/ajo-on-demand.md" target="_blank" rel="referrer" title="AJO VRA On Demand Series">AJO VRA On Demand Series</a>
                     </p>
-                    <p class="is-size-6">Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta rump fatback drumstick filet mignon ground round.</p>
+                    <p class="is-size-6">The Adobe Journey Optimizer Value Realization Series guides teams in activating real‑time, personalized engagement through a clear value strategy. These sessions cover use‑case roadmaps, architecture, operating models, and organizational readiness to accelerate time‑to‑value and maximize AJO adoption.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="vra/ajo-on-demand.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View series</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="VRA Content Supply Chain Series">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="CSC VRA On Demand Series">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users" title="VRA Content Supply Chain Series" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="VRA Content Supply Chain Series"
+                    <a href="vra/csc-on-demand.md" title="CSC VRA On Demand Series" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1773689372143" alt="CSC VRA On Demand Series"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -255,11 +249,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users" target="_blank" rel="referrer" title="VRA Content Supply Chain Series">VRA Content Supply Chain Series</a>
+                        <a href="vra/csc-on-demand.md" target="_blank" rel="referrer" title="CSC VRA On Demand Series">CSC VRA On Demand Series</a>
                     </p>
-                    <p class="is-size-6">Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta rump fatback drumstick filet mignon ground round.</p>
+                    <p class="is-size-6">This series explores how to modernize the content supply chain from planning through measurement. Sessions highlight practical approaches to architecture, operating models, executive sponsorship, and change management to drive efficiency, scale content operations, and deliver measurable outcomes.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="vra/csc-on-demand.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">View series</span>
                 </a>
             </div>
@@ -268,12 +262,13 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+
+
 ## Virtual Workshops
 
 I will hide this section, but we can set up the basics now, and then we can turn it on later. Bacon ipsum dolor amet ribeye porchetta frankfurter bresaola, ham pig pancetta rump fatback drumstick filet mignon ground round. Cow burgdoggen bacon buffalo, ground round swine shank flank. T-bone chuck pork flank bacon chislic strip steak meatball jerky. Shank chuck fatback tongue sirloin. Shank prosciutto tenderloin, alcatra pork belly spare ribs t-bone hamburger salami. Tri-tip ham hock chuck burgdoggen drumstick tail.
 
-<!--
-CARDS  ****
+<!-- CARDS  ****
 
 {cta = Watch}
 
@@ -281,7 +276,6 @@ CARDS  ****
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-lucene-search
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-genai
 -->
-
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Beyond the Page - Fast, Flexible, Personalized Experiences with AEM's Emerging Technology">
@@ -289,7 +283,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/personalized-experiences-aem" title="Beyond the Page - Fast, Flexible, Personalized Experiences with AEM's Emerging Technology" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1771976012889" alt="Beyond the Page - Fast, Flexible, Personalized Experiences with AEM's Emerging Technology"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464537/?format=jpeg&nocache=1773690799653" alt="Beyond the Page - Fast, Flexible, Personalized Experiences with AEM's Emerging Technology"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -312,7 +306,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-lucene-search" title="Essential Tips and Best Practices for AEM Lucene Search" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1771976012887" alt="Essential Tips and Best Practices for AEM Lucene Search"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476410/?format=jpeg&nocache=1773690799567" alt="Essential Tips and Best Practices for AEM Lucene Search"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -335,7 +329,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/aem2025/aem-genai" title="AEM with GenAI - Transforming your Content Creation & Delivery at Scale" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1771976012879" alt="AEM with GenAI - Transforming your Content Creation & Delivery at Scale"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1773690799602" alt="AEM with GenAI - Transforming your Content Creation & Delivery at Scale"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -355,3 +349,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

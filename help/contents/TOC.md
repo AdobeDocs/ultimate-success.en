@@ -9,3 +9,7 @@ hide: yes
 
 + [Overview](overview.md)
 + [Webinars](webinars.md)
++ [VRA On-demand Series] {#vra}
+  + [CJA VRA On-demand series](vra/cja-on-demand.md)
+  + [AJO VRA On-demand series](vra/ajo-on-demand.md)
+  + [CSC VRA On-demand series](vra/csc-on-demand.md)
