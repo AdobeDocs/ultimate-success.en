@@ -1,11 +1,11 @@
 ---
-title: CJA VRA On Demand Series
+title: CJA Value Realization Acceleration Series
 description: This on-demand Customer Journey Analytics series helps organizations build a value-driven measurement strategy that turns customer data into trusted insights and measurable business outcomes.
 solution: Customer Journey Analytics
 hide: yes
 ---
 
-# CJA VRA On Demand Series
+# CJA Value Realization Acceleration Series
 
 This on‑demand series helps organizations build a clear, value‑driven measurement strategy with Customer Journey Analytics. Sessions focus on aligning use cases, architecture, operating models, and leadership to move from data collection to trusted insights and measurable business outcomes.
 

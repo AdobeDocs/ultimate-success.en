@@ -1,15 +1,15 @@
 ---
-user-guide-title: Ultimate Success On-demand Content
-breadcrumb-title: Ultimate Success On-demand Content
+user-guide-title: Ultimate Success Webinar Library
+breadcrumb-title: Ultimate Success Webinar Library
 user-guide-description: Access our exclusive, expert-led webinar library for Ultimate Success customers to quickly master strategic and technical best practices that drive measurable business results.
 hide: yes
 ---
 
-# Ultimate Success {#ultimate-success-on-demand}
+# Ultimate Success Webinar Library {#ultimate-success-webinar-library}
 
 + [Overview](overview.md)
 + [Webinars](webinars.md)
-+ VRA On-demand Series {#vra}
-  + [CJA VRA On-demand series](vra/cja-on-demand.md)
-  + [AJO VRA On-demand series](vra/ajo-on-demand.md)
-  + [CSC VRA On-demand series](vra/csc-on-demand.md)
++ Mini-Series Content {#mini-series}
+  + [CJA Value Realization Acceleration Series](mini-series/cja-on-demand.md)
+  + [AJO Value Realization Acceleration Series](mini-series/ajo-on-demand.md)
+  + [CSC Value Realization Series](mini-series/csc-on-demand.md)
