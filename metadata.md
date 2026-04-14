@@ -6,7 +6,7 @@ type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/discontinued.en
 auto-video-transcripts: true
-index: true
+hide: true
 debug: yes
 author: various
 ---
