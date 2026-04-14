@@ -1,7 +1,7 @@
 ---
 title:  Ultimate Success Webinar Library
 description: Access our exclusive, expert-led webinar library for Ultimate Success customers to quickly master strategic and technical best practices that drive measurable business results.
-hide: yes
+hide: true
 ---
 
 # Ultimate Success Webinar Library
