@@ -20,7 +20,7 @@ Join us for an interactive Change Management working session focused on accelera
 
 >[!VIDEO](https://video.tv.adobe.com/v/3486200/?learn=on&enablevpops)
 
-This session requires little to no pre-work.  You can optionally watch the (Change Management Strategies)[https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies] recording from the [VRA series](help/contents/mini-series/ajo-on-demand.md), supports teams at any maturity level, and ensures every attendee leaves with a tangible, one-page change plan directly aligned to their AJO use cases.
+This session requires little to no pre-work.  You can optionally watch the [Change Management Strategies](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2025/ajo2025/change-management-strategies) recording from the [VRA series](https://experienceleague.adobe.com/en/docs/ultimate-success/ultimate-success-webinar-library/mini-series/ajo-on-demand), supports teams at any maturity level, and ensures every attendee leaves with a tangible, one-page change plan directly aligned to their AJO use cases.
 
 This session focused on,
 
