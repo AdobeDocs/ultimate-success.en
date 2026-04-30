@@ -12,4 +12,5 @@ user-guide-description: Access our exclusive, expert-led webinar library for Ult
   + [CJA Value Realization Acceleration Series](mini-series/cja-on-demand.md)
   + [AJO Value Realization Acceleration Series](mini-series/ajo-on-demand.md)
   + [CSC Value Realization Series](mini-series/csc-on-demand.md)
-
++ Hidden {#hidden}
+  + [Change Management Deep Dive](../contents/2026/change-management-deep-dive.md)
