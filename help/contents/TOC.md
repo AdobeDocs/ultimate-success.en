@@ -13,6 +13,6 @@ user-guide-description: Access our exclusive, expert-led webinar library for Ult
   + [AJO Value Realization Acceleration Series](mini-series/ajo-on-demand.md)
   + [CSC Value Realization Series](mini-series/csc-on-demand.md)
 + {hide-from-toc} Hidden {#hidden}
-  + [Change Management Deep Dive](../contents/2026/change-management-deep-dive.md)
-  + [Intelligent Decisioning](../contents/2026/intelligent-decsioning.md)
-  + [Unlocking Federated Audience Composition](../contents/2026/unified-audiences.md)
+  + {hide-from-toc} [Change Management Deep Dive](../contents/2026/change-management-deep-dive.md)
+  + {hide-from-toc} [Intelligent Decisioning](../contents/2026/intelligent-decsioning.md)
+  + {hide-from-toc} [Unlocking Federated Audience Composition](../contents/2026/unified-audiences.md)
