@@ -17,6 +17,8 @@ CARDS  ****
 
 {cta = Watch}
 
+* ../contents/2026/unified-audiences.md
+* ../contents/2026/intelligent-decsioning.md
 * ../contents/2026/change-management-deep-dive.md
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/cja2026/brd-sdr-file-best-practices
 * https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aep2026/embedded-intelligence
