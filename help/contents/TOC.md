@@ -16,3 +16,4 @@ user-guide-description: Access our exclusive, expert-led webinar library for Ult
   + {hide-from-toc} [Change Management Deep Dive](../contents/2026/change-management-deep-dive.md)
   + {hide-from-toc} [Intelligent Decisioning](../contents/2026/intelligent-decsioning.md)
   + {hide-from-toc} [Unlocking Federated Audience Composition](../contents/2026/unified-audiences.md)
+  + {hide-from-toc} [Visibility in the AI Era](../contents/2026/ai-visibility.md)
