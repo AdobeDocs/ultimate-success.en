@@ -10,7 +10,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 ## Commerce
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -73,7 +74,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -158,7 +160,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -365,7 +368,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -477,7 +481,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -706,7 +711,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1007,7 +1013,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1094,7 +1101,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1180,7 +1188,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 **2025**
 
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1339,7 +1348,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 **2024**
 
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1451,7 +1461,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1561,7 +1572,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1694,7 +1706,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1899,7 +1912,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 ## GenStudio for Performance Marketing
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1962,7 +1976,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2071,7 +2086,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2254,7 +2270,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 **2024**
 
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2413,7 +2430,8 @@ Explore our collection of on-demand webinars designed to help you maximize the v
 
 **2026**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2462,7 +2480,8 @@ CARDS ****
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2501,7 +2520,8 @@ CARDS ****
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2682,7 +2702,8 @@ CARDS ****
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2721,7 +2742,8 @@ CARDS ****
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2832,7 +2854,8 @@ CARDS ****
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2869,7 +2892,8 @@ CARDS ****
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2908,7 +2932,8 @@ CARDS ****
 
 **2025**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2993,7 +3018,8 @@ CARDS ****
 
 **2024**
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
