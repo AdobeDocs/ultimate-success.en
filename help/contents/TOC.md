@@ -23,3 +23,7 @@ user-guide-description: Access our exclusive, expert-led webinar library for Ult
   + {hide-from-toc} [Adobe Data Insights Agent](../contents/2026/data-insights-agent-cja.md)
   + {hide-from-toc} [Optimizing AEM for GEO](../contents/2026/optimize-aem-for-geo.md)
   + {hide-from-toc} [CJA Shared Components](../contents/2026/shared-components-cja.md)
+  + {hide-from-toc} [Email campaigns](../contents/2026/email-campaigns.md)
+  + {hide-from-toc} [Creating Customer Experience Strategy](../contents/2026/maximize-ajo-value.md)
+  + {hide-from-toc} [Unlocking Federated Audience Composition](../contents/2026/unlock-federated-audience-composition.md)
+  + {hide-from-toc} [Effective Use Case Statements ](../contents/2026/effective-use-case-statements.md)
