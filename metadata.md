@@ -8,7 +8,7 @@ usetq: true
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/discontinued.en
+git-repo: https://github.com/AdobeDocs/ultimate-success.en
 auto-video-transcripts: true
 hide: true
 debug: yes
