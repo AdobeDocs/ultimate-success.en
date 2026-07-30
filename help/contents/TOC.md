@@ -28,3 +28,8 @@ nudge: true
   + {hide-from-toc} [Creating Customer Experience Strategy](../contents/2026/maximize-ajo-value.md)
   + {hide-from-toc} [Unlocking Federated Audience Composition](../contents/2026/unlock-federated-audience-composition.md)
   + {hide-from-toc} [Effective Use Case Statements ](../contents/2026/effective-use-case-statements.md)
+  + {hide-from-toc} [Sustaining Adoption After Go-Live](../contents/2026/operational-drift.md)
+  + {hide-from-toc} [Managing Multi-Region Teams](../contents/2026/multi-region-teams.md)
+  + {hide-from-toc} [Personalisation Capabilities in Customer Experience](../contents/2026/personalisation-capabilities.md)
+  + {hide-from-toc} [GenAI Agents of Adobe Experience Manager](../contents/2026/genai-agents-aem.md)
+  + {hide-from-toc} [Generating and prioritizing AJO use cases](../contents/2026/ajo-use-cases.md)
