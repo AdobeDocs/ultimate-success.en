@@ -2,14 +2,8 @@
 title: Scaling Adobe Agents - Journey Agent
 description: Learn how Adobe's Journey Agent combines AI workflows with human oversight to optimize journey creation and governance.
 product: Journey Optimizer
-role:
-  - Admin
-  - Leader
-  - User
-level:
-  - Beginner
-  - Intermediate
-  - Experienced
+role: Admin, Leader, User
+level: Beginner, Intermediate, Experienced
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-12
