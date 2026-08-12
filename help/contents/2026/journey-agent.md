@@ -26,12 +26,14 @@ Explore how the Journey Agent combines natural-language workflows with human ove
 >[!VIDEO](https://video.tv.adobe.com/v/3496957/?learn=on&enablevpops)
 
 ## What you will learn
+
 - How Journey Agent streamlines journey creation with natural-language prompts.
 - The importance of governance and human oversight in AI workflows.
 - Practical strategies for optimizing customer journeys.
 - Insights into Adobe's AI architecture supporting Journey Agent.
 
 ## Target audience
+
 This event is designed for:
 - Administrators
 - Leaders
@@ -40,6 +42,7 @@ This event is designed for:
 Suitable for individuals at all experience levels, from beginner to experienced.
 
 ## Agenda
+
 1. **Introduction to Journey Agent**
    - Overview of AI-driven workflows.
    - The role of human oversight in journey optimization.

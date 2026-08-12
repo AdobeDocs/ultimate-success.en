@@ -41,16 +41,19 @@ This session is ideal for:
 ## Agenda
 
 ### Understanding Troubleshooting Challenges
+
 - Common issues in data collection
 - Misinterpreting symptoms for root causes
 - Lack of tools and outdated implementations
 
 ### Validation Workspace as a Key Tool
+
 - Building effective dashboards
 - Leveraging trends and conditional formatting
 - Automating routine checks to save time
 
 ### Practical Troubleshooting Playbook
+
 1. Classify issue types (e.g., collection, attribution, persistence)
 2. Validate with tools like workspaces and anomaly detection
 3. Inspect and replicate issues to identify root causes
@@ -58,16 +61,19 @@ This session is ideal for:
 5. Escalate effectively with detailed context and data
 
 ### Governance and Implementation Hygiene
+
 - Establishing clear responsibilities among teams
 - Maintaining updated libraries and documentation
 - Implementing governance variables for clean data
 
 ### Advanced Techniques and Tools
+
 - Utilizing AI and other tools for validation and troubleshooting
 - Exploring Web SDK-specific troubleshooting strategies
 - Practical checks for validation workspaces
 
 ### Closing and Next Steps
+
 - Recap of key takeaways
 - Building or improving validation workspaces
 - Leveraging support and accelerators from Adobe Ultimate Success

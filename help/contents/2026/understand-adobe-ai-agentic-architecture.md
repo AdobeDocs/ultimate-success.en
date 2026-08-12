@@ -46,22 +46,27 @@ This session is designed for:
 ## Agenda
 
 ### 1. Introduction to Adobe's AI and agentic architecture
+
 - Overview of architecture's role in business success.
 - The connection between AI and business pillars.
 
 ### 2. Exploring Adobe's architecture
+
 - Visual representations of Adobe's integrated systems.
 - The role of the agent orchestrator in AI workflows.
 
 ### 3. Implementing AI agents
+
 - Build paths for AI agents in Adobe environments.
 - Steps to ensure effective implementation and governance.
 
 ### 4. Best practices and readiness
+
 - Prioritizing use cases and understanding organizational capacity.
 - Developing a readiness roadmap for AI and agentic adoption.
 
 ### 5. Q&A Session
+
 - Addressing audience questions and providing tailored advice.
 
 Join us for this informative session to enhance your understanding of Adobe's AI capabilities and learn how to apply them effectively to achieve your business goals.

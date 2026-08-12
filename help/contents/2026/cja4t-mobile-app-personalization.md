@@ -22,6 +22,7 @@ Learn how to connect Adobe Target mobile app experiences to downstream actions a
 >[!VIDEO](https://video.tv.adobe.com/v/3496953/?learn=on&enablevpops)
 
 ## What you will learn
+
 - How CJA4T enables cross-channel analysis of mobile app personalization.
 - Key differences between A4T and CJA4T and why it matters.
 - Practical steps for leveraging identity stitching and data architecture.
@@ -29,12 +30,14 @@ Learn how to connect Adobe Target mobile app experiences to downstream actions a
 - Common pitfalls to avoid for a seamless setup.
 
 ## Target audience
+
 This session is designed for:
 - Marketing professionals looking to enhance mobile app personalization.
 - Technical consultants and engineers involved in Adobe Experience Cloud solutions.
 - Data analysts focusing on cross-channel reporting and insights.
 
 ## Agenda
+
 1. **Introduction to CJA4T:** Overview of its capabilities and benefits for mobile app personalization.
 2. **Understanding the architecture:** How data flows from mobile apps to Customer Journey Analytics.
 3. **Implementation essentials:** Key configurations and identity stitching for unified reporting.

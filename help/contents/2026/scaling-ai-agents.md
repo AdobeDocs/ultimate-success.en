@@ -42,24 +42,30 @@ This event is designed for:
 ## Agenda
 
 ### Introduction
+
 - Overview of Adobe AI agents and their significance.
 
 ### Deep Dive into Audience Agent
+
 - Core capabilities such as audience discovery, rapid segment creation, and duplicate cleanup.
 - Practical examples of Audience Agent in action.
 
 ### Deep Dive into Data Insights Agent
+
 - How it simplifies campaign performance diagnosis and segment/channel comparison.
 - Examples showcasing natural language querying and visualization generation.
 
 ### Connected Workflow Demonstration
+
 - How Audience Agent and Data Insights Agent collaborate to optimize campaigns.
 - Real-world scenario walkthrough.
 
 ### Scalability Framework
+
 - Framework for identifying scalable AI use cases.
 - Strategies for prioritizing and operationalizing AI workflows.
 
 ### Closing Remarks and Q&A
+
 - Summary of key takeaways.
 - Open floor for audience questions.
