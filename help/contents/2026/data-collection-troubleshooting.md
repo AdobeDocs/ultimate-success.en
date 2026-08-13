@@ -1,7 +1,7 @@
 ---
 title: Data Collection Troubleshooting - Tips, Tricks, and Governance Best Practices
 description: Learn effective ways to troubleshoot Adobe Analytics and Web SDK with governance-led techniques to validate data and resolve issues faster.
-product: Customer Journey Analytics
+solution: Customer Journey Analytics
 role: Admin, Developer
 level: Beginner, Intermediate
 doc-type: Event

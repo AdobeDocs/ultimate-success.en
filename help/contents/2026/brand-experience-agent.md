@@ -1,7 +1,7 @@
 ---
 title: Scaling Of Adobe Agents - Brand Experience Agent
 description: Learn how Adobe's Brand Experience Agent can streamline workflows, accelerate content production, and ensure governance for scalable business value.
-product: Workfront
+solution: Workfront
 role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
