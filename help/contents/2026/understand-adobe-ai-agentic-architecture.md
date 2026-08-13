@@ -1,7 +1,7 @@
 ---
 title: Understanding Adobe's AI and Agentic Architecture for Business Needs
 description: Learn how Adobe's AI and agentic architecture align with business outcomes, maximize Adobe investments, and enable scalable adoption with strong governance.
-product: Platform
+solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event

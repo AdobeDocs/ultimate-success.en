@@ -1,7 +1,7 @@
 ---
 title: Scaling Adobe AI Agents - Audience Agent & Data Insights Agent
 description: Learn how Audience Agent and Data Insights Agent turn ad hoc AI use into repeatable workflows for segmentation, audience management, and campaign analysis.
-product: Customer Journey Analytics
+solution: Customer Journey Analytics
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event

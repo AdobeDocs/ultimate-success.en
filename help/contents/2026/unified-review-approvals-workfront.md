@@ -1,7 +1,7 @@
 ---
 title: Why you want Unified Review & Approvals in Workfront
 description: Discover how Adobe Workfront Unified Review & Approval streamlines content review processes, enhances collaboration, and boosts efficiency.
-product: Workfront
+solution: Workfront
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
