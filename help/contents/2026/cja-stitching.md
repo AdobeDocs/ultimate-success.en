@@ -2,13 +2,8 @@
 title: Elevating Cross-Channel Insights with Adobe Customer Journey Analytics Stitching
 description: Learn how Adobe CJA stitching unlocks person-level, cross-channel analysis, improving reporting, attribution, and audience building.
 product: Journey Optimizer
-role:
-  - Admin
-  - Developer
-  - User
-level:
-  - Beginner
-  - Intermediate
+role: Admin, Developer, User
+level: Beginner, Intermediate
 doc-type: Event
 type: Event
 last-substantial-update: 2026-08-17
