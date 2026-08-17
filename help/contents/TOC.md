@@ -41,3 +41,4 @@ nudge: true
   + {hide-from-toc} [CJA4T for Mobile App Personalization](../contents/2026/cja4t-mobile-app-personalization.md)
   + {hide-from-toc} [Adobe's AI and Agentic Architecture](../contents/2026/understand-adobe-ai-agentic-architecture.md)
   + {hide-from-toc} [Scalable Operating Model for Adobe Workfront](../contents/2026/scalable-operating-model.md)
+  + {hide-from-toc} [Adobe Customer Journey Analytics Stitching](../contents/2026/cja-stitching.md)
