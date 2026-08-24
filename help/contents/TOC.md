@@ -42,3 +42,5 @@ nudge: true
   + {hide-from-toc} [Adobe's AI and Agentic Architecture](../contents/2026/understand-adobe-ai-agentic-architecture.md)
   + {hide-from-toc} [Scalable Operating Model for Adobe Workfront](../contents/2026/scalable-operating-model.md)
   + {hide-from-toc} [Adobe Customer Journey Analytics Stitching](../contents/2026/cja-stitching.md)
+  + {hide-from-toc} [Turning Use Cases into Business Outcomes](../contents/2026/use-cases-into-business-outcomes.md)
+  + {hide-from-toc} [AJO Product Release Session](../contents/2026/ajo-product-relelase-session.md)
