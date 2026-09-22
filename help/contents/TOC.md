@@ -51,3 +51,4 @@ nudge: true
   + {hide-from-toc} [Adobe Commerce Observability & Monitoring Best Practices](../contents/2026/commerce-observability-monitoring.md)
   + {hide-from-toc} [Strategic Planning for CXO Success](../contents/2026/strategic-planning-cxo-success.md)
   + {hide-from-toc} [AEM Agent Skills](../contents/2026/ai-assisted-development.md)
+  + {hide-from-toc} [Tagged, Governed, Activated](../contents/2026/metadata-backbone-content-at-scale.md)
