@@ -3,6 +3,9 @@ title: CJA Value Realization Acceleration Series
 description: This on-demand Customer Journey Analytics series helps organizations build a value-driven measurement strategy that turns customer data into trusted insights and measurable business outcomes.
 solution: Customer Journey Analytics
 hide: true
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 ---
 
 # CJA Value Realization Acceleration Series

@@ -6,13 +6,23 @@ role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 type: Event
-event-date: 2026-08-13
-last-substantial-update: 2026-09-15
+event-date: 2026-08-13T00:00:00.000Z
+last-substantial-update: 2026-09-15T00:00:00.000Z
 jira: KT-22536
 duration: 2398
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-user-guide-description:
+user-guide-description: 
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 
 # From strategy to execution: getting more from Workfront Planning
