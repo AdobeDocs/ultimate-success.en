@@ -6,11 +6,26 @@ role: Admin, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 type: Event
-last-substantial-update: 2026-08-12
+last-substantial-update: 2026-08-12T00:00:00.000Z
 jira: KT-22283
 duration: 3110
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 
 # From Adobe Analytics to Customer Journey Analytics: Your Migration Roadmap

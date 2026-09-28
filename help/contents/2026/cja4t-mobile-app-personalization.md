@@ -6,11 +6,22 @@ role: User
 level: Beginner, Intermediate
 doc-type: Event
 type: Event
-last-substantial-update: 2026-08-12
+last-substantial-update: 2026-08-12T00:00:00.000Z
 jira: KT-22282
 duration: 2118
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 
 # From experiment to insight: CJA4T for mobile app personalization

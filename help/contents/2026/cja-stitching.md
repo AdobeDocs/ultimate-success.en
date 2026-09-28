@@ -6,12 +6,24 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 type: Event
-last-substantial-update: 2026-08-17
+last-substantial-update: 2026-08-17T00:00:00.000Z
 jira: KT-22335
 duration: 3105
 series: Ultimate Success
 user-guide-breadcrumb: Ultimate Success
-user-guide-description:
+user-guide-description: 
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 
 # Elevating Cross-Channel Insights with Adobe Customer Journey Analytics Stitching
