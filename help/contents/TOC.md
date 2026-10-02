@@ -54,3 +54,4 @@ nudge: true
   + {hide-from-toc} [Tagged, Governed, Activated](../contents/2026/metadata-backbone-content-at-scale.md)
   + {hide-from-toc} [Unlock the Future of B2B Growth](../contents/2026/future-b2b-growth.md)
   + {hide-from-toc} [Closing the WIP Review and Approval Gap](../contents/2026/wip-review-approval-gap.md)
+  + {hide-from-toc} [Building for AI Scale](../contents/2026/building-for-ai-scale.md)
