@@ -8,12 +8,6 @@ hide: true
 
 Access our comprehensive library of expert-led webinars designed to accelerate your mastery of strategic and technical best practices made exclusively for our Ultimate Success customers. From foundational concepts to advanced implementation strategies, these webinars cover everything you need to drive measurable business outcomes.
 
-## Adobe AI Essentials
-
-Bacon ipsum dolor amet pork belly picanha shank, biltong ham meatloaf polony pork loin doner landjaeger. Turkey spare ribs filet mignon pancetta ground round leberkas shoulder drumstick jerky pork ball tip. Short ribs frankfurter chuck shankle ham hock tri-tip, filet mignon tail cow ground round boudin chislic drumstick. Capicola jowl short ribs, shoulder frankfurter spare ribs pork loin rump fatback turkey boudin salami ground round. Jowl shankle landjaeger prosciutto porchetta turducken chislic chuck. Beef shankle turducken, landjaeger short ribs short loin pancetta spare ribs corned beef porchetta polony kevin jowl pork pork chop.
-
-[View all webinars](./webinars.md)
-
 ## Webinars
 
 Explore our collection of on-demand webinars designed to help you maximize the value of Adobe Experience Platform (AEP) solutions. Built for Ultimate customers, each session delivers actionable guidance, proven strategies, and real-world examples to help you drive smarter decisions and stronger results—on your schedule.
