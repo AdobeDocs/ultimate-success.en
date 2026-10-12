@@ -57,3 +57,4 @@ nudge: true
   + {hide-from-toc} [Unlock the Future of B2B Growth](../contents/2026/future-b2b-growth.md)
   + {hide-from-toc} [Closing the WIP Review and Approval Gap](../contents/2026/wip-review-approval-gap.md)
   + {hide-from-toc} [Building for AI Scale](../contents/2026/building-for-ai-scale.md)
+  + {hide-from-toc} [AJO Code-Based Experiences](../contents/2026/strategies-for-smarter-personalization.md)
