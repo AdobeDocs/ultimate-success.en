@@ -8,7 +8,6 @@ nudge: true
 # Ultimate Success Webinar Library {#ultimate-success-webinar-library}
 
 + [Overview](overview.md)
-+ {hide-from-toc}[Overview AI](overview-ai.md)
 + [Webinars](webinars.md)
 + Mini-Series Content {#mini-series}
   + [AI Essentials](mini-series/ai-essentials.md)
