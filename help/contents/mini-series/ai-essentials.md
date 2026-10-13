@@ -1,6 +1,6 @@
 ---
 title: AI Essentials
-description: Dive into our curated set of on-demand mini-series content with each webinar building on a single topic, so you can learn each session on its own or watch the full series for a complete, end-to-end understanding
+description: Learn Adobe AI with on-demand sessions covering core concepts and hands-on AI capabilities across Adobe Customer Experience Orchestration products.
 hide: true
 ---
 

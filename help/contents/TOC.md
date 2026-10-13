@@ -11,7 +11,7 @@ nudge: true
 + {hide-from-toc}[Overview AI](overview-ai.md)
 + [Webinars](webinars.md)
 + Mini-Series Content {#mini-series}
-  + {hide-from-toc}[AI Essentials](mini-series/ai-essentials.md)
+  + [AI Essentials](mini-series/ai-essentials.md)
   + [CJA Value Realization Acceleration Series](mini-series/cja-on-demand.md)
   + [AJO Value Realization Acceleration Series](mini-series/ajo-on-demand.md)
   + [CSC Value Realization Series](mini-series/csc-on-demand.md)
