@@ -10,7 +10,7 @@ Access our comprehensive library of expert-led webinars designed to accelerate y
 
 ## Webinars
 
-Explore our collection of on-demand webinars designed to help you maximize the value of Adobe Experience Platform (AEP) solutions. Built for Ultimate customers, each session delivers actionable guidance, proven strategies, and real-world examples to help you drive smarter decisions and stronger results—on your schedule.
+Explore our collection of on-demand webinars designed to help you maximize the value of Adobe Experience Platform (AEP) solutions. Built for Ultimate customers, each session delivers actionable guidance, proven strategies, and real-world examples to help you drive smarter decisions and stronger results on your schedule.
 
 <!-- 
 CARDS  ****
