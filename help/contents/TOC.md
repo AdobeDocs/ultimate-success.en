@@ -57,4 +57,5 @@ nudge: true
   + {hide-from-toc} [Closing the WIP Review and Approval Gap](../contents/2026/wip-review-approval-gap.md)
   + {hide-from-toc} [Building for AI Scale](../contents/2026/building-for-ai-scale.md)
   + {hide-from-toc} [AJO Code-Based Experiences](../contents/2026/strategies-for-smarter-personalization.md)
+  + {hide-from-toc} [Getting Started with Campaign REST APIs](../contents/2026/getting-started-campaign-rest-apis.md)
   
