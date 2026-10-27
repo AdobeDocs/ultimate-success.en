@@ -60,5 +60,5 @@ nudge: true
   + {hide-from-toc} [Getting Started with Campaign REST APIs](../contents/2026/getting-started-campaign-rest-apis.md)
   + {hide-from-toc} [AEM AI Assistant and Adobe CX Enterprise Coworker](../contents/2026/aem-ai-assistant-cx-enterprise-coworker.md)
   + {hide-from-toc} [Scaling Production with Campaign Email Designer](../contents/2026/scale-production-campaign-email-designer.md)
-  + {hdie-from-toc} [Connecting AI Agentic Investments to Business Impact](../contents/2026/ai-agentic-investments-to-business-impact.md)
+  + {hide-from-toc} [Connecting AI Agentic Investments to Business Impact](../contents/2026/ai-agentic-investments-to-business-impact.md)
   
