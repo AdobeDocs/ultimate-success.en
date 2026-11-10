@@ -62,4 +62,5 @@ nudge: true
   + {hide-from-toc} [Scaling Production with Campaign Email Designer](../contents/2026/scale-production-campaign-email-designer.md)
   + {hide-from-toc} [Connecting AI Agentic Investments to Business Impact](../contents/2026/ai-agentic-investments-to-business-impact.md)
   + {hide-from-toc} [Sustainable AI Adoption](../contents/2026/sustainable-ai-adoption.md)
+  + {hide-from-toc} [Marketo AI Toolkit](../contents/2026/marketo-ai-toolkit.md)
   
