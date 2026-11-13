@@ -63,4 +63,8 @@ nudge: true
   + {hide-from-toc} [Connecting AI Agentic Investments to Business Impact](../contents/2026/ai-agentic-investments-to-business-impact.md)
   + {hide-from-toc} [Sustainable AI Adoption](../contents/2026/sustainable-ai-adoption.md)
   + {hide-from-toc} [Marketo AI Toolkit](../contents/2026/marketo-ai-toolkit.md)
+  + {hide-from-toc} [AJO Troubleshooting](../contents/2026/ajo-troubleshooting.md)
+  + {hide-from-toc} [Adobe Coworker - Your AI Teammate](../contents/2026/coworker-ai-teammate.md)
+  + {hide-from-toc} [Turning Analytics Insights Into an Experimentation Backlog](../contents/2026/analytics-insights-experimentation-backlog.md)
+  + {hide-from-toc} [Adobe AI Agents in Practice](../contents/2026/adobe-ai-agents-in-practice.md)
   
