@@ -67,4 +67,5 @@ nudge: true
   + {hide-from-toc} [Adobe Coworker - Your AI Teammate](../contents/2026/coworker-ai-teammate.md)
   + {hide-from-toc} [Turning Analytics Insights Into an Experimentation Backlog](../contents/2026/analytics-insights-experimentation-backlog.md)
   + {hide-from-toc} [Adobe AI Agents in Practice](../contents/2026/adobe-ai-agents-in-practice.md)
+  + {hide-from-toc} [RTCDP Center of Excellence](..//contents/2026/rtcdp-center-of-excellence.md)
   
