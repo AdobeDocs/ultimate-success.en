@@ -20,7 +20,7 @@ How do you turn audience complexity into coordinated action? This practical sess
 
 >[!VIDEO](https://video.tv.adobe.com/v/3508597/?learn=on&enablevpops)
 
-# Ket Takeaways
+## Key Takeaways
 
 * **Clarify audience ownership** Define who creates, manages, approves, and maintains audiences across teams and business units.  
 * **Strengthen governance and reduce duplication** Establish shared standards and decision rights to limit overlapping audiences and keep practices consistent.  
